@@ -32,7 +32,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 SECRET_FILE = os.path.join(BASE_DIR, "secret.txt")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
