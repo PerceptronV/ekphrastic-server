@@ -1,3 +1,5 @@
+/static
+/user-media
 /journal
 /db.sqlite3*
 Session.vim
@@ -18,3 +20,6 @@ __pycache__
 /build
 /dist
 /*.egg-info
+
+etebase-server.ini
+etebase_nginx.conf
